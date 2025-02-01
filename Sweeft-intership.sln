@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher-api", "Teacher-api\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyCoins", "GreedyCoins\GreedyCoins.csproj", "{E392DA06-2CE0-48FE-B39E-16DE9308E1FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotContains", "NotContains\NotContains.csproj", "{C88CEB26-2068-4883-A365-0AF3486BFFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E392DA06-2CE0-48FE-B39E-16DE9308E1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E392DA06-2CE0-48FE-B39E-16DE9308E1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E392DA06-2CE0-48FE-B39E-16DE9308E1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E392DA06-2CE0-48FE-B39E-16DE9308E1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C88CEB26-2068-4883-A365-0AF3486BFFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88CEB26-2068-4883-A365-0AF3486BFFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88CEB26-2068-4883-A365-0AF3486BFFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88CEB26-2068-4883-A365-0AF3486BFFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
