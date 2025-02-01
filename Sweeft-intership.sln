@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teacher-api", "Teacher-api\Teacher-api.csproj", "{53A4191C-46C8-4264-99BE-2C22D8FB7216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A4191C-46C8-4264-99BE-2C22D8FB7216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A4191C-46C8-4264-99BE-2C22D8FB7216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A4191C-46C8-4264-99BE-2C22D8FB7216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A4191C-46C8-4264-99BE-2C22D8FB7216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35AC1C42-49AB-4A88-B8EF-F67E3489EC00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
