@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciStairs", "Fibonacc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsProperly", "IsProperly\IsProperly.csproj", "{462D4C3E-E410-4CA6-A3C3-AEE69BB90356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestCountriesApi", "RestCountriesApi\RestCountriesApi.csproj", "{856C0B89-EAD3-488A-BB5C-9580B436F82B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{462D4C3E-E410-4CA6-A3C3-AEE69BB90356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{462D4C3E-E410-4CA6-A3C3-AEE69BB90356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{462D4C3E-E410-4CA6-A3C3-AEE69BB90356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856C0B89-EAD3-488A-BB5C-9580B436F82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856C0B89-EAD3-488A-BB5C-9580B436F82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856C0B89-EAD3-488A-BB5C-9580B436F82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856C0B89-EAD3-488A-BB5C-9580B436F82B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
